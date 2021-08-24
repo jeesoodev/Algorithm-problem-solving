@@ -38,5 +38,6 @@ public class BOJ_1182_PartialSum {
         for (int i = start; i < N; i++) {
             comb(i+1, cnt+1 ,r, sum + arr[i] );
         }
-    }
+    }//comb
+
 }//Class
