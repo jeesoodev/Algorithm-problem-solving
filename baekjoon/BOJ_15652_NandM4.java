@@ -30,5 +30,4 @@ public class BOJ_15652_NandM4{
             permutation(i, cnt+1);
         }
     }
-    
 }//Class
